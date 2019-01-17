@@ -3,6 +3,12 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        for (int multiple = 1; multiple < 1000; multiple++) {
+           System.out.println(multiple);
+
+            }
+        }
     }
-}
+
+
+
